@@ -14,8 +14,7 @@ What this application does:
 
 ## Tools
 * Python 3.10
-* AWS CLI
-* AWS CDK
+* AWS (CDK, SQS, lambda, DynamoDB, S3, Cloudwatch, Cloudformation)
 * Docker
 
 ## How To Run This App
