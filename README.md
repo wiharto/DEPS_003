@@ -4,6 +4,7 @@ The Data Engineering Project Series (DEPS) showcases my expertise in designing a
 > The projects in DEPS are demonstration assignments originally created for technical interviews, designed to showcase technical skills and problem-solving capabilities.
 
 # DEPS_003: Twitter(X) API Pipeline Using Python and AWS CDK
+## Summary
 What this application does:
 * Get data (meta, media and tweets) from Twitter(X) API.
 * Send data to queues using Amazon SQS.
