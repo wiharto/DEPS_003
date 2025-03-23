@@ -12,7 +12,7 @@ What this application does:
 > [!NOTE]
 > At this point Twitter has changed to X and the API may or may not work. However, the concept, architecture and how the tools are used are still valid.
 
-## Tools
+## Tools (As of March 2025)
 * Python 3.10
 * AWS (CDK, SQS, lambda, DynamoDB, S3, Cloudwatch, Cloudformation)
 * Docker
